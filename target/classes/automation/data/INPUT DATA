@@ -1,0 +1,14 @@
+Name=TEST
+Email=test@gmail.com
+Phone=9876543210
+NoticePeriod=0
+experience=2
+Description=Testing
+SuccessMessage=Application Submitted Successfully.
+ErrorMessage=something went wrong! please try again later
+InvalidName=123@33
+InvalidEmail=123
+InvalidPhone=qwertyui
+InvalidNoticePeriod=qwert
+InvalidExperience=100000
+EmptyValue=
